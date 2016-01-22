@@ -26,6 +26,7 @@ Plugin 'tpope/vim-bundler'          " Gemfiles
 Plugin 'kien/ctrlp.vim'             " Fuzzy finder
 Plugin 'godlygeek/tabular'          " Align text
 Plugin 'vim-scripts/loremipsum'     " Lorem ipsum
+Plugin 'vim-airline/vim-airline'    " easy mode
 
 " Syntax
 Plugin 'mattn/emmet-vim'            " html/css
